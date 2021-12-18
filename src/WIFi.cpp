@@ -4,8 +4,8 @@
 #include <HTTPClient.h>
 #include <time.h>
 
-const char *ssid = "nhome";
-const char *pass = "swisscq1";
+const char *ssid = "***";
+const char *pass = "***";
 HTTPClient client;
 
 void initWifI();
